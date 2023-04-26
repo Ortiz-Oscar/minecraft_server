@@ -1,3 +1,13 @@
-[18:41:13] [ServerMain/ERROR]: Failed to load properties from file: server.properties
-[18:41:13] [ServerMain/WARN]: Failed to load eula.txt
-[18:41:13] [ServerMain/INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
+[25abr2023 20:30:37.889] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 44.1.0, --fml.mcVersion, 1.19.3, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20221207.122022]
+[25abr2023 20:30:37.896] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 19 by Oracle Corporation; OS Windows 10 arch amd64 version 10.0
+[25abr2023 20:30:38.056] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/forti/Desktop/Projects/minecraft_server/modded/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2364!/ Service=ModLauncher Env=SERVER
+[25abr2023 20:30:38.084] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file C:\Users\forti\Desktop\Projects\minecraft_server\modded\config\fml.toml is not correct. Correcting
+[25abr2023 20:30:38.088] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [defaultConfigPath] was corrected from null to defaultconfigs
+[25abr2023 20:30:38.230] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\forti\Desktop\Projects\minecraft_server\modded\libraries\net\minecraftforge\fmlcore\1.19.3-44.1.0\fmlcore-1.19.3-44.1.0.jar is missing mods.toml file
+[25abr2023 20:30:38.233] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\forti\Desktop\Projects\minecraft_server\modded\libraries\net\minecraftforge\javafmllanguage\1.19.3-44.1.0\javafmllanguage-1.19.3-44.1.0.jar is missing mods.toml file
+[25abr2023 20:30:38.236] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\forti\Desktop\Projects\minecraft_server\modded\libraries\net\minecraftforge\lowcodelanguage\1.19.3-44.1.0\lowcodelanguage-1.19.3-44.1.0.jar is missing mods.toml file
+[25abr2023 20:30:38.238] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\forti\Desktop\Projects\minecraft_server\modded\libraries\net\minecraftforge\mclanguage\1.19.3-44.1.0\mclanguage-1.19.3-44.1.0.jar is missing mods.toml file
+[25abr2023 20:30:38.301] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[25abr2023 20:30:39.090] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[25abr2023 20:30:39.378] [main/WARN] [net.minecraft.server.Eula/]: Failed to load eula.txt
+[25abr2023 20:30:39.384] [main/INFO] [net.minecraft.server.Main/]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
